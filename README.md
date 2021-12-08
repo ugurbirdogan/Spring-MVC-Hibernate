@@ -3,7 +3,7 @@
 
 ## Description
 
-**SpringMVC ve Hibernate kullandığım ilk basit crud işlemleri gerçekleştiren bir denemedir. SpringMVC yapısındaki temel işlevleri kullanmaya çalıştım.**
+**It is an experiment that performs the first simple crud operations using Spring MVC and Hibernate. I tried to use core functions in SpringMVC build.**
 
 
 ![image](https://user-images.githubusercontent.com/41667882/127919240-3c8d8505-ba26-4ac9-997e-bbf2e886cb82.png)
